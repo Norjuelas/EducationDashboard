@@ -84,7 +84,7 @@ st.markdown("""
 
 
 # --- TÍTULO PRINCIPAL ---
-st.title("🚀 Dashboard de Gestión de Proyectos con IA")
+st.title("🚀 Dashboard de gestion DATIC")
 
 
 # --- OBTENER API KEY Y CONFIGURAR GEMINI ---
